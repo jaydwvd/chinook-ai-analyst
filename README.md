@@ -61,3 +61,5 @@ Database: SQLite (Chinook Sample DB)
 "List all tracks by AC/DC."
 
 "Which genre has the longest average track length?"
+
+Resources: https://github.com/lerocha/chinook-database/blob/master/ChinookDatabase/DataSources/Chinook_Sqlite.sqlite
